@@ -1,11 +1,11 @@
 export const Questions = [
     {
       prompt: "What is my name?",
-      optionA: "John",
-      optionB: "Jake",
-      optionC: "Josh",
-      optionD: "Pedro",
-      asnwer: "optionD",
+      optionA: "Konde",
+      optionB: "Chujji",
+      optionC: "Sandhu",
+      optionD: "None of the above",
+      asnwer: "optionA",
     },
     {
       prompt: "Which of this is not a programming language?",
