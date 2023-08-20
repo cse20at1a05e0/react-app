@@ -13,7 +13,7 @@ export const Questions = [
       optionB: "JavaScript",
       optionC: "MC-03",
       optionD: "Java",
-      asnwer: "optionC",
+      asnwer: "optionD",
     },
     {
       prompt: "Which of this is not a javascript framework?",
